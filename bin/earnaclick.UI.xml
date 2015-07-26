@@ -1,0 +1,436 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+earnaclick.UI
+</name>
+</assembly>
+<members>
+<member name="F:earnaclick.UI.edit.pnlOuterWrap">
+	<summary>
+pnlOuterWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.edit.ctop1">
+	<summary>
+ctop1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.edit.pnlInnerWrap">
+	<summary>
+pnlInnerWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.edit.heading">
+	<summary>
+heading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.edit.pnlOuterBody">
+	<summary>
+pnlOuterBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.edit.pnlInnerBody">
+	<summary>
+pnlInnerBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.edit.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.edit.divCleared">
+	<summary>
+divCleared control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.edit.cbottom1">
+	<summary>
+cbottom1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.pnlOuterWrap">
+	<summary>
+pnlOuterWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.ctop1">
+	<summary>
+ctop1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.pnlInnerWrap">
+	<summary>
+pnlInnerWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.heading">
+	<summary>
+heading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.pnlOuterBody">
+	<summary>
+pnlOuterBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.pnlInnerBody">
+	<summary>
+pnlInnerBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.receiver">
+	<summary>
+receiver control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.divCleared">
+	<summary>
+divCleared control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.receiver.cbottom1">
+	<summary>
+cbottom1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:earnaclick.UI.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:earnaclick.UI.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:earnaclick.UI.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:earnaclick.UI.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:earnaclick.UI.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:earnaclick.UI.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:earnaclick.UI._error.pnlOuterWrap">
+	<summary>
+pnlOuterWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI._error.ctop1">
+	<summary>
+ctop1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI._error.pnlInnerWrap">
+	<summary>
+pnlInnerWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI._error.heading">
+	<summary>
+heading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI._error.pnlOuterBody">
+	<summary>
+pnlOuterBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI._error.pnlInnerBody">
+	<summary>
+pnlInnerBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI._error.errorlabel">
+	<summary>
+errorlabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI._error.LinkButton1">
+	<summary>
+LinkButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI._error.divCleared">
+	<summary>
+divCleared control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI._error.cbottom1">
+	<summary>
+cbottom1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.pnlOuterWrap">
+	<summary>
+pnlOuterWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.ctop1">
+	<summary>
+ctop1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.pnlInnerWrap">
+	<summary>
+pnlInnerWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.heading">
+	<summary>
+heading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.pnlOuterBody">
+	<summary>
+pnlOuterBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.pnlInnerBody">
+	<summary>
+pnlInnerBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.linkpanel">
+	<summary>
+linkpanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.divCleared">
+	<summary>
+divCleared control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.sender.cbottom1">
+	<summary>
+cbottom1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.pnlOuterWrap">
+	<summary>
+pnlOuterWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.ctop1">
+	<summary>
+ctop1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.pnlInnerWrap">
+	<summary>
+pnlInnerWrap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.TitleControl">
+	<summary>
+TitleControl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.pnlOuterBody">
+	<summary>
+pnlOuterBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.pnlInnerBody">
+	<summary>
+pnlInnerBody control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.senderdiv">
+	<summary>
+senderdiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.divCleared">
+	<summary>
+divCleared control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:earnaclick.UI.entryclickcontrol.cbottom1">
+	<summary>
+cbottom1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
