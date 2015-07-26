@@ -41,3 +41,44 @@ CREATE TABLE [dbo].[clickhistory](
 ) ON [PRIMARY]
 
 GO
+
+USE [earnaclickC]
+GO
+
+/****** Object:  Table [dbo].[receivervalidation]    Script Date: 07/26/2015 12:40:10 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[receivervalidation](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[clickdatetime] [datetime2](7) NOT NULL,
+	[userid] [int] NOT NULL,
+	[code] [nvarchar](50) NOT NULL
+) ON [PRIMARY]
+
+GO
+
+
+USE [earnaclickC]
+GO
+
+/****** Object:  Table [dbo].[userinformation]    Script Date: 07/26/2015 12:41:55 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[userinformation](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[paymentdatetime] [datetime2](7) NULL,
+	[userid] [int] NOT NULL,
+	[usertype] [nvarchar](50) NOT NULL
+) ON [PRIMARY]
+
+GO
+
+
